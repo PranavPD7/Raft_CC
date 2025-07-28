@@ -45,7 +45,7 @@ Before running the project, make sure you have the following installed:
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/Nish-077/Raft3D.git
+git clone https://github.com/PranavPD7/Raft_CC.git
 ```
 
 ### 2. Initialize Submodules
